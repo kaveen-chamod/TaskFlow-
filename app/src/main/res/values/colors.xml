@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_bg">#FF0000</color>
+
+    <color name="login_bg">#E61E1E</color>
+    <color name="white_translucent">#CCFFFFFF</color>
+    <color name="vibrant_red">#FF0000</color>
+    <color name="light_gray">#D3D3D3</color>
+</resources>

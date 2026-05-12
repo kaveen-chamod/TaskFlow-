@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The White Capsule Background from your image -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white" />
+            <corners android:radius="100dp" />
+            <!-- Using dimensions similar to your 372px x 203px -->
+            <size
+                android:width="90dp"
+                android:height="40dp" />
+        </shape>
+    </item>
+
+    <!-- Your "Task Flow" Logo centered inside the capsule -->
+    <item
+        android:drawable="@drawable/ic_task_flow_logo"
+        android:gravity="center"
+        android:top="100dp"
+        android:bottom="100dp"
+        android:left="100dp"
+        android:right="100dp" />
+</layer-list>
